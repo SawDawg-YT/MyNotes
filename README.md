@@ -1,3 +1,3 @@
 # MyNotes 
 ## TABLE OF CONTENT
-- [PYTHON](PYTHON.md)
+- [PYTHON NOTES](./python.md)
