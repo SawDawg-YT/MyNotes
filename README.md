@@ -3,3 +3,4 @@
 https://www.youtube.com/watch?v=9vEjumJNX6U&t=53s
 ## TABLE OF CONTENT
 - [PYTHON NOTES](./python.md)
+- [OPENSOURCE PROJECTS](./opensource.md)
